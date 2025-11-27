@@ -3,4 +3,6 @@ MATLAB script implementing the algorithm from manuscript submitted for peer revi
 
 "Harmonic balance based simulation of chatter in turning including interrupted cut"
 
+(accesible at https://hal.science/hal-05371872)
+
 The script plots figures 3(b,c) (stability lobe's low point case)
